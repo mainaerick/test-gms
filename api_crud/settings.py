@@ -50,6 +50,11 @@ INSTALLED_APPS = [
     'django_filters',
     'authentication',
     'movies',
+    'gms',
+    #'management',
+    'namespaces',
+    'tenant',
+    'django_object_actions',
 ]
 
 SITE_ID = 1
